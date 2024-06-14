@@ -1,0 +1,1 @@
+Biblioteca Thread-Safe usando Boost e Qt para testes.
